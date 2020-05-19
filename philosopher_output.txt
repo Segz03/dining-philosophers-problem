@@ -1,0 +1,1680 @@
+Summer is thinking
+
+Summer is picking up fork: 3
+
+Summer is picking up fork: 2
+
+Bird-Person is thinking
+
+Rick is thinking
+
+Morty is thinking
+
+Mr. Meeseeks is thinking
+
+Beth is thinking
+
+Bird-Person is picking up fork: 0
+
+Mr. Meeseeks is picking up fork: 6
+
+Beth is picking up fork: 5
+
+Beth is picking up fork: 4
+
+Jerry is thinking
+
+Summer is eat
+
+Summer is putting down fork: 3
+
+Summer is putting down fork: 2
+
+Morty is picking up fork: 2
+
+Morty is picking up fork: 1
+
+Summer is thinking
+
+Summer is picking up fork: 3
+
+Morty is eat
+
+Morty is putting down fork: 2
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 1
+
+Beth is eat
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 5
+
+Jerry is picking up fork: 4
+
+Beth is putting down fork: 4
+
+Summer is eat
+
+Morty is thinking
+
+Jerry is picking up fork: 3
+
+Summer is putting down fork: 3
+
+Morty is picking up fork: 2
+
+Summer is putting down fork: 2
+
+Morty is picking up fork: 1
+
+Summer is thinking
+
+Beth is thinking
+
+Jerry is eat
+
+Jerry is putting down fork: 4
+
+Summer is picking up fork: 3
+
+Jerry is putting down fork: 3
+
+Morty is eat
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 2
+
+Morty is putting down fork: 1
+
+Jerry is thinking
+
+Jerry is picking up fork: 4
+
+Summer is eat
+
+Jerry is picking up fork: 3
+
+Summer is putting down fork: 3
+
+Summer is putting down fork: 2
+
+Summer is thinking
+
+Mr. Meeseeks is eat
+
+Bird-Person is picking up fork: 6
+
+Mr. Meeseeks is putting down fork: 6
+
+Beth is picking up fork: 5
+
+Mr. Meeseeks is putting down fork: 5
+
+Morty is thinking
+
+Morty is picking up fork: 2
+
+Morty is picking up fork: 1
+
+Morty is eat
+
+Morty is putting down fork: 2
+
+Morty is putting down fork: 1
+
+Mr. Meeseeks is thinking
+
+Jerry is eat
+
+Beth is picking up fork: 4
+
+Jerry is putting down fork: 4
+
+Summer is picking up fork: 3
+
+Jerry is putting down fork: 3
+
+Summer is picking up fork: 2
+
+Summer is eat
+
+Summer is putting down fork: 3
+
+Morty is thinking
+
+Summer is putting down fork: 2
+
+Morty is picking up fork: 2
+
+Morty is picking up fork: 1
+
+Jerry is thinking
+
+Bird-Person is eat
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 0
+
+Bird-Person is putting down fork: 6
+
+Mr. Meeseeks is picking up fork: 6
+
+Bird-Person is thinking
+
+Summer is thinking
+
+Summer is picking up fork: 3
+
+Morty is eat
+
+Morty is putting down fork: 2
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 1
+
+Rick is picking up fork: 1
+
+Beth is eat
+
+Beth is putting down fork: 5
+
+Mr. Meeseeks is picking up fork: 5
+
+Jerry is picking up fork: 4
+
+Beth is putting down fork: 4
+
+Beth is thinking
+
+Morty is thinking
+
+Rick is eat
+
+Rick is putting down fork: 0
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 1
+
+Summer is eat
+
+Jerry is picking up fork: 3
+
+Summer is putting down fork: 3
+
+Morty is picking up fork: 2
+
+Summer is putting down fork: 2
+
+Summer is thinking
+
+Morty is picking up fork: 1
+
+Rick is thinking
+
+Mr. Meeseeks is eat
+
+Bird-Person is picking up fork: 6
+
+Mr. Meeseeks is putting down fork: 6
+
+Beth is picking up fork: 5
+
+Mr. Meeseeks is putting down fork: 5
+
+Bird-Person is eat
+
+Bird-Person is putting down fork: 0
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 6
+
+Jerry is eat
+
+Beth is picking up fork: 4
+
+Jerry is putting down fork: 4
+
+Jerry is putting down fork: 3
+
+Summer is picking up fork: 3
+
+Mr. Meeseeks is thinking
+
+Mr. Meeseeks is picking up fork: 6
+
+Morty is eat
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 2
+
+Morty is putting down fork: 1
+
+Rick is picking up fork: 1
+
+Rick is eat
+
+Morty is thinking
+
+Rick is putting down fork: 0
+
+Rick is putting down fork: 1
+
+Bird-Person is thinking
+
+Bird-Person is picking up fork: 0
+
+Beth is eat
+
+Jerry is thinking
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 5
+
+Jerry is picking up fork: 4
+
+Beth is putting down fork: 4
+
+Mr. Meeseeks is eat
+
+Mr. Meeseeks is putting down fork: 6
+
+Bird-Person is picking up fork: 6
+
+Beth is thinking
+
+Mr. Meeseeks is putting down fork: 5
+
+Beth is picking up fork: 5
+
+Bird-Person is eat
+
+Bird-Person is putting down fork: 0
+
+Rick is thinking
+
+Bird-Person is putting down fork: 6
+
+Rick is picking up fork: 0
+
+Bird-Person is thinking
+
+Rick is picking up fork: 1
+
+Summer is eat
+
+Jerry is picking up fork: 3
+
+Summer is putting down fork: 3
+
+Jerry is eat
+
+Summer is putting down fork: 2
+
+Morty is picking up fork: 2
+
+Beth is picking up fork: 4
+
+Jerry is putting down fork: 4
+
+Mr. Meeseeks is thinking
+
+Jerry is putting down fork: 3
+
+Mr. Meeseeks is picking up fork: 6
+
+Jerry is thinking
+
+Rick is eat
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 0
+
+Morty is picking up fork: 1
+
+Rick is putting down fork: 1
+
+Morty is eat
+
+Morty is putting down fork: 2
+
+Morty is putting down fork: 1
+
+Morty is thinking
+
+Morty is picking up fork: 2
+
+Morty is picking up fork: 1
+
+Summer is thinking
+
+Beth is eat
+
+Summer is picking up fork: 3
+
+Beth is putting down fork: 5
+
+Mr. Meeseeks is picking up fork: 5
+
+Jerry is picking up fork: 4
+
+Beth is putting down fork: 4
+
+Mr. Meeseeks is eat
+
+Mr. Meeseeks is putting down fork: 6
+
+Bird-Person is picking up fork: 6
+
+Mr. Meeseeks is putting down fork: 5
+
+Morty is eat
+
+Morty is putting down fork: 2
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 1
+
+Morty is thinking
+
+Beth is thinking
+
+Beth is picking up fork: 5
+
+Mr. Meeseeks is thinking
+
+Rick is thinking
+
+Summer is eat
+
+Summer is putting down fork: 3
+
+Jerry is picking up fork: 3
+
+Morty is picking up fork: 2
+
+Summer is putting down fork: 2
+
+Jerry is eat
+
+Morty is picking up fork: 1
+
+Summer is thinking
+
+Jerry is putting down fork: 4
+
+Beth is picking up fork: 4
+
+Morty is eat
+
+Summer is picking up fork: 3
+
+Jerry is putting down fork: 3
+
+Morty is putting down fork: 2
+
+Summer is picking up fork: 2
+
+Jerry is thinking
+
+Morty is putting down fork: 1
+
+Bird-Person is eat
+
+Bird-Person is putting down fork: 0
+
+Rick is picking up fork: 0
+
+Mr. Meeseeks is picking up fork: 6
+
+Bird-Person is putting down fork: 6
+
+Rick is picking up fork: 1
+
+Bird-Person is thinking
+
+Rick is eat
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 0
+
+Rick is putting down fork: 1
+
+Morty is thinking
+
+Rick is thinking
+
+Beth is eat
+
+Beth is putting down fork: 5
+
+Mr. Meeseeks is picking up fork: 5
+
+Summer is eat
+
+Jerry is picking up fork: 4
+
+Beth is putting down fork: 4
+
+Summer is putting down fork: 3
+
+Beth is thinking
+
+Jerry is picking up fork: 3
+
+Summer is putting down fork: 2
+
+Morty is picking up fork: 2
+
+Morty is picking up fork: 1
+
+Summer is thinking
+
+Mr. Meeseeks is eat
+
+Bird-Person is picking up fork: 6
+
+Mr. Meeseeks is putting down fork: 6
+
+Jerry is eat
+
+Beth is picking up fork: 5
+
+Mr. Meeseeks is putting down fork: 5
+
+Jerry is putting down fork: 4
+
+Beth is picking up fork: 4
+
+Summer is picking up fork: 3
+
+Jerry is putting down fork: 3
+
+Morty is eat
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 2
+
+Jerry is thinking
+
+Morty is putting down fork: 1
+
+Morty is thinking
+
+Mr. Meeseeks is thinking
+
+Bird-Person is eat
+
+Bird-Person is putting down fork: 0
+
+Rick is picking up fork: 0
+
+Mr. Meeseeks is picking up fork: 6
+
+Bird-Person is putting down fork: 6
+
+Rick is picking up fork: 1
+
+Summer is eat
+
+Bird-Person is thinking
+
+Summer is putting down fork: 3
+
+Morty is picking up fork: 2
+
+Summer is putting down fork: 2
+
+Beth is eat
+
+Beth is putting down fork: 5
+
+Mr. Meeseeks is picking up fork: 5
+
+Rick is eat
+
+Beth is putting down fork: 4
+
+Jerry is picking up fork: 4
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 0
+
+Jerry is picking up fork: 3
+
+Rick is putting down fork: 1
+
+Morty is picking up fork: 1
+
+Summer is thinking
+
+Rick is thinking
+
+Beth is thinking
+
+Jerry is eat
+
+Jerry is putting down fork: 4
+
+Jerry is putting down fork: 3
+
+Summer is picking up fork: 3
+
+Jerry is thinking
+
+Jerry is picking up fork: 4
+
+Mr. Meeseeks is eat
+
+Mr. Meeseeks is putting down fork: 6
+
+Bird-Person is picking up fork: 6
+
+Mr. Meeseeks is putting down fork: 5
+
+Beth is picking up fork: 5
+
+Bird-Person is eat
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 0
+
+Bird-Person is putting down fork: 6
+
+Bird-Person is thinking
+
+Morty is eat
+
+Mr. Meeseeks is thinking
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 2
+
+Mr. Meeseeks is picking up fork: 6
+
+Rick is picking up fork: 1
+
+Morty is putting down fork: 1
+
+Rick is eat
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 0
+
+Rick is putting down fork: 1
+
+Summer is eat
+
+Jerry is picking up fork: 3
+
+Morty is thinking
+
+Summer is putting down fork: 3
+
+Morty is picking up fork: 2
+
+Summer is putting down fork: 2
+
+Morty is picking up fork: 1
+
+Summer is thinking
+
+Rick is thinking
+
+Jerry is eat
+
+Beth is picking up fork: 4
+
+Jerry is putting down fork: 4
+
+Morty is eat
+
+Jerry is putting down fork: 3
+
+Summer is picking up fork: 3
+
+Morty is putting down fork: 2
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 1
+
+Summer is eat
+
+Summer is putting down fork: 3
+
+Summer is putting down fork: 2
+
+Beth is eat
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 5
+
+Jerry is thinking
+
+Mr. Meeseeks is eat
+
+Beth is putting down fork: 4
+
+Jerry is picking up fork: 4
+
+Bird-Person is picking up fork: 6
+
+Mr. Meeseeks is putting down fork: 6
+
+Jerry is picking up fork: 3
+
+Mr. Meeseeks is putting down fork: 5
+
+Summer is thinking
+
+Morty is thinking
+
+Morty is picking up fork: 2
+
+Morty is picking up fork: 1
+
+Mr. Meeseeks is thinking
+
+Beth is thinking
+
+Beth is picking up fork: 5
+
+Bird-Person is eat
+
+Jerry is eat
+
+Bird-Person is putting down fork: 0
+
+Rick is picking up fork: 0
+
+Jerry is putting down fork: 4
+
+Beth is picking up fork: 4
+
+Bird-Person is putting down fork: 6
+
+Mr. Meeseeks is picking up fork: 6
+
+Summer is picking up fork: 3
+
+Jerry is putting down fork: 3
+
+Jerry is thinking
+
+Morty is eat
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 2
+
+Beth is eat
+
+Bird-Person is thinking
+
+Rick is picking up fork: 1
+
+Morty is putting down fork: 1
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 5
+
+Jerry is picking up fork: 4
+
+Beth is putting down fork: 4
+
+Summer is eat
+
+Summer is putting down fork: 3
+
+Rick is eat
+
+Jerry is picking up fork: 3
+
+Summer is putting down fork: 2
+
+Rick is putting down fork: 0
+
+Bird-Person is picking up fork: 0
+
+Beth is thinking
+
+Rick is putting down fork: 1
+
+Morty is thinking
+
+Morty is picking up fork: 2
+
+Morty is picking up fork: 1
+
+Summer is thinking
+
+Jerry is eat
+
+Jerry is putting down fork: 4
+
+Rick is thinking
+
+Jerry is putting down fork: 3
+
+Summer is picking up fork: 3
+
+Jerry is thinking
+
+Jerry is picking up fork: 4
+
+Mr. Meeseeks is eat
+
+Mr. Meeseeks is putting down fork: 6
+
+Bird-Person is picking up fork: 6
+
+Beth is picking up fork: 5
+
+Mr. Meeseeks is putting down fork: 5
+
+Bird-Person is eat
+
+Bird-Person is putting down fork: 0
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 6
+
+Morty is eat
+
+Mr. Meeseeks is thinking
+
+Mr. Meeseeks is picking up fork: 6
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 2
+
+Rick is picking up fork: 1
+
+Morty is putting down fork: 1
+
+Bird-Person is thinking
+
+Morty is thinking
+
+Summer is eat
+
+Rick is eat
+
+Summer is putting down fork: 3
+
+Jerry is picking up fork: 3
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 0
+
+Summer is putting down fork: 2
+
+Morty is picking up fork: 2
+
+Rick is putting down fork: 1
+
+Morty is picking up fork: 1
+
+Jerry is eat
+
+Jerry is putting down fork: 4
+
+Beth is picking up fork: 4
+
+Jerry is putting down fork: 3
+
+Jerry is thinking
+
+Summer is thinking
+
+Rick is thinking
+
+Summer is picking up fork: 3
+
+Morty is eat
+
+Morty is putting down fork: 2
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 1
+
+Morty is thinking
+
+Beth is eat
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 5
+
+Beth is putting down fork: 4
+
+Jerry is picking up fork: 4
+
+Mr. Meeseeks is eat
+
+Mr. Meeseeks is putting down fork: 6
+
+Bird-Person is picking up fork: 6
+
+Mr. Meeseeks is putting down fork: 5
+
+Mr. Meeseeks is thinking
+
+Summer is eat
+
+Summer is putting down fork: 3
+
+Jerry is picking up fork: 3
+
+Beth is thinking
+
+Morty is picking up fork: 2
+
+Summer is putting down fork: 2
+
+Beth is picking up fork: 5
+
+Morty is picking up fork: 1
+
+Morty is eat
+
+Morty is putting down fork: 2
+
+Morty is putting down fork: 1
+
+Summer is thinking
+
+Morty is thinking
+
+Morty is picking up fork: 2
+
+Morty is picking up fork: 1
+
+Jerry is eat
+
+Bird-Person is eat
+
+Jerry is putting down fork: 4
+
+Beth is picking up fork: 4
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 0
+
+Summer is picking up fork: 3
+
+Jerry is putting down fork: 3
+
+Mr. Meeseeks is picking up fork: 6
+
+Bird-Person is putting down fork: 6
+
+Morty is eat
+
+Morty is putting down fork: 2
+
+Summer is picking up fork: 2
+
+Rick is picking up fork: 1
+
+Morty is putting down fork: 1
+
+Beth is eat
+
+Beth is putting down fork: 5
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 4
+
+Jerry is thinking
+
+Bird-Person is thinking
+
+Jerry is picking up fork: 4
+
+Mr. Meeseeks is eat
+
+Mr. Meeseeks is putting down fork: 6
+
+Mr. Meeseeks is putting down fork: 5
+
+Morty is thinking
+
+Beth is thinking
+
+Beth is picking up fork: 5
+
+Mr. Meeseeks is thinking
+
+Mr. Meeseeks is picking up fork: 6
+
+Summer is eat
+
+Jerry is picking up fork: 3
+
+Summer is putting down fork: 3
+
+Jerry is eat
+
+Morty is picking up fork: 2
+
+Summer is putting down fork: 2
+
+Jerry is putting down fork: 4
+
+Beth is picking up fork: 4
+
+Jerry is putting down fork: 3
+
+Jerry is thinking
+
+Rick is eat
+
+Rick is putting down fork: 0
+
+Bird-Person is picking up fork: 0
+
+Morty is picking up fork: 1
+
+Rick is putting down fork: 1
+
+Summer is thinking
+
+Summer is picking up fork: 3
+
+Rick is thinking
+
+Beth is eat
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 5
+
+Jerry is picking up fork: 4
+
+Beth is putting down fork: 4
+
+Beth is thinking
+
+Morty is eat
+
+Morty is putting down fork: 2
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 1
+
+Mr. Meeseeks is eat
+
+Bird-Person is picking up fork: 6
+
+Mr. Meeseeks is putting down fork: 6
+
+Bird-Person is eat
+
+Mr. Meeseeks is putting down fork: 5
+
+Beth is picking up fork: 5
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 0
+
+Mr. Meeseeks is thinking
+
+Rick is picking up fork: 1
+
+Bird-Person is putting down fork: 6
+
+Mr. Meeseeks is picking up fork: 6
+
+Summer is eat
+
+Summer is putting down fork: 3
+
+Jerry is picking up fork: 3
+
+Summer is putting down fork: 2
+
+Rick is eat
+
+Bird-Person is thinking
+
+Rick is putting down fork: 0
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 1
+
+Morty is thinking
+
+Morty is picking up fork: 2
+
+Jerry is eat
+
+Morty is picking up fork: 1
+
+Beth is picking up fork: 4
+
+Jerry is putting down fork: 4
+
+Morty is eat
+
+Jerry is putting down fork: 3
+
+Morty is putting down fork: 2
+
+Jerry is thinking
+
+Morty is putting down fork: 1
+
+Rick is thinking
+
+Summer is thinking
+
+Summer is picking up fork: 3
+
+Summer is picking up fork: 2
+
+Morty is thinking
+
+Beth is eat
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 5
+
+Jerry is picking up fork: 4
+
+Beth is putting down fork: 4
+
+Mr. Meeseeks is eat
+
+Mr. Meeseeks is putting down fork: 6
+
+Bird-Person is picking up fork: 6
+
+Mr. Meeseeks is putting down fork: 5
+
+Mr. Meeseeks is thinking
+
+Summer is eat
+
+Jerry is picking up fork: 3
+
+Summer is putting down fork: 3
+
+Summer is putting down fork: 2
+
+Morty is picking up fork: 2
+
+Beth is thinking
+
+Morty is picking up fork: 1
+
+Beth is picking up fork: 5
+
+Bird-Person is eat
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 0
+
+Bird-Person is putting down fork: 6
+
+Mr. Meeseeks is picking up fork: 6
+
+Bird-Person is thinking
+
+Summer is thinking
+
+Jerry is eat
+
+Jerry is putting down fork: 4
+
+Beth is picking up fork: 4
+
+Summer is picking up fork: 3
+
+Jerry is putting down fork: 3
+
+Morty is eat
+
+Jerry is thinking
+
+Morty is putting down fork: 2
+
+Summer is picking up fork: 2
+
+Rick is picking up fork: 1
+
+Morty is putting down fork: 1
+
+Beth is eat
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 5
+
+Beth is putting down fork: 4
+
+Jerry is picking up fork: 4
+
+Rick is eat
+
+Morty is thinking
+
+Rick is putting down fork: 0
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 1
+
+Beth is thinking
+
+Rick is thinking
+
+Mr. Meeseeks is eat
+
+Mr. Meeseeks is putting down fork: 6
+
+Bird-Person is picking up fork: 6
+
+Summer is eat
+
+Mr. Meeseeks is putting down fork: 5
+
+Beth is picking up fork: 5
+
+Jerry is picking up fork: 3
+
+Summer is putting down fork: 3
+
+Jerry is eat
+
+Summer is putting down fork: 2
+
+Morty is picking up fork: 2
+
+Jerry is putting down fork: 4
+
+Beth is picking up fork: 4
+
+Morty is picking up fork: 1
+
+Jerry is putting down fork: 3
+
+Jerry is thinking
+
+Summer is thinking
+
+Summer is picking up fork: 3
+
+Mr. Meeseeks is thinking
+
+Bird-Person is eat
+
+Bird-Person is putting down fork: 0
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 6
+
+Mr. Meeseeks is picking up fork: 6
+
+Bird-Person is thinking
+
+Beth is eat
+
+Morty is eat
+
+Beth is putting down fork: 5
+
+Mr. Meeseeks is picking up fork: 5
+
+Summer is picking up fork: 2
+
+Morty is putting down fork: 2
+
+Beth is putting down fork: 4
+
+Jerry is picking up fork: 4
+
+Morty is putting down fork: 1
+
+Rick is picking up fork: 1
+
+Beth is thinking
+
+Mr. Meeseeks is eat
+
+Summer is eat
+
+Mr. Meeseeks is putting down fork: 6
+
+Jerry is picking up fork: 3
+
+Summer is putting down fork: 3
+
+Beth is picking up fork: 5
+
+Mr. Meeseeks is putting down fork: 5
+
+Summer is putting down fork: 2
+
+Mr. Meeseeks is thinking
+
+Mr. Meeseeks is picking up fork: 6
+
+Rick is eat
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 0
+
+Summer is thinking
+
+Rick is putting down fork: 1
+
+Jerry is eat
+
+Jerry is putting down fork: 4
+
+Beth is picking up fork: 4
+
+Summer is picking up fork: 3
+
+Jerry is putting down fork: 3
+
+Summer is picking up fork: 2
+
+Summer is eat
+
+Summer is putting down fork: 3
+
+Summer is putting down fork: 2
+
+Rick is thinking
+
+Jerry is thinking
+
+Beth is eat
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 5
+
+Jerry is picking up fork: 4
+
+Beth is putting down fork: 4
+
+Jerry is picking up fork: 3
+
+Beth is thinking
+
+Jerry is eat
+
+Jerry is putting down fork: 4
+
+Jerry is putting down fork: 3
+
+Jerry is thinking
+
+Jerry is picking up fork: 4
+
+Jerry is picking up fork: 3
+
+Mr. Meeseeks is eat
+
+Mr. Meeseeks is putting down fork: 6
+
+Bird-Person is picking up fork: 6
+
+Beth is picking up fork: 5
+
+Mr. Meeseeks is putting down fork: 5
+
+Mr. Meeseeks is thinking
+
+Bird-Person is eat
+
+Bird-Person is putting down fork: 0
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 6
+
+Mr. Meeseeks is picking up fork: 6
+
+Rick is picking up fork: 1
+
+Jerry is eat
+
+Beth is picking up fork: 4
+
+Jerry is putting down fork: 4
+
+Jerry is putting down fork: 3
+
+Bird-Person is thinking
+
+Rick is eat
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 0
+
+Rick is putting down fork: 1
+
+Rick is thinking
+
+Jerry is thinking
+
+Beth is eat
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 5
+
+Mr. Meeseeks is eat
+
+Jerry is picking up fork: 4
+
+Beth is putting down fork: 4
+
+Mr. Meeseeks is putting down fork: 6
+
+Bird-Person is picking up fork: 6
+
+Jerry is picking up fork: 3
+
+Mr. Meeseeks is putting down fork: 5
+
+Beth is thinking
+
+Jerry is eat
+
+Beth is picking up fork: 5
+
+Jerry is putting down fork: 4
+
+Beth is picking up fork: 4
+
+Jerry is putting down fork: 3
+
+Mr. Meeseeks is thinking
+
+Bird-Person is eat
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 0
+
+Rick is picking up fork: 1
+
+Mr. Meeseeks is picking up fork: 6
+
+Bird-Person is putting down fork: 6
+
+Bird-Person is thinking
+
+Beth is eat
+
+Beth is putting down fork: 5
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 4
+
+Mr. Meeseeks is eat
+
+Mr. Meeseeks is putting down fork: 6
+
+Mr. Meeseeks is putting down fork: 5
+
+Beth is thinking
+
+Beth is picking up fork: 5
+
+Beth is picking up fork: 4
+
+Mr. Meeseeks is thinking
+
+Mr. Meeseeks is picking up fork: 6
+
+Rick is eat
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 0
+
+Rick is putting down fork: 1
+
+Beth is eat
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 5
+
+Mr. Meeseeks is eat
+
+Beth is putting down fork: 4
+
+Beth is thinking
+
+Mr. Meeseeks is putting down fork: 6
+
+Bird-Person is picking up fork: 6
+
+Beth is picking up fork: 5
+
+Mr. Meeseeks is putting down fork: 5
+
+Beth is picking up fork: 4
+
+Beth is eat
+
+Beth is putting down fork: 5
+
+Beth is putting down fork: 4
+
+Rick is thinking
+
+Bird-Person is eat
+
+Mr. Meeseeks is thinking
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 0
+
+Bird-Person is putting down fork: 6
+
+Rick is picking up fork: 1
+
+Mr. Meeseeks is picking up fork: 6
+
+Rick is eat
+
+Mr. Meeseeks is picking up fork: 5
+
+Rick is putting down fork: 0
+
+Beth is thinking
+
+Rick is putting down fork: 1
+
+Mr. Meeseeks is eat
+
+Mr. Meeseeks is putting down fork: 6
+
+Rick is thinking
+
+Beth is picking up fork: 5
+
+Mr. Meeseeks is putting down fork: 5
+
+Rick is picking up fork: 0
+
+Beth is picking up fork: 4
+
+Mr. Meeseeks is thinking
+
+Rick is picking up fork: 1
+
+Mr. Meeseeks is picking up fork: 6
+
+Rick is eat
+
+Rick is putting down fork: 0
+
+Rick is putting down fork: 1
+
+Bird-Person is thinking
+
+Bird-Person is picking up fork: 0
+
+Beth is eat
+
+Beth is putting down fork: 5
+
+Mr. Meeseeks is picking up fork: 5
+
+Beth is putting down fork: 4
+
+Rick is thinking
+
+Mr. Meeseeks is eat
+
+Bird-Person is picking up fork: 6
+
+Mr. Meeseeks is putting down fork: 6
+
+Mr. Meeseeks is putting down fork: 5
+
+Bird-Person is eat
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 0
+
+Rick is picking up fork: 1
+
+Bird-Person is putting down fork: 6
+
+Bird-Person is thinking
+
+Rick is eat
+
+Rick is putting down fork: 0
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 1
+
+Bird-Person is picking up fork: 6
+
+Rick is thinking
+
+Bird-Person is eat
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 0
+
+Rick is picking up fork: 1
+
+Bird-Person is putting down fork: 6
+
+Bird-Person is thinking
+
+Rick is eat
+
+Rick is putting down fork: 0
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 1
+
+Bird-Person is picking up fork: 6
+
+Rick is thinking
+
+Bird-Person is eat
+
+Bird-Person is putting down fork: 0
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 6
+
+Rick is picking up fork: 1
+
+Bird-Person is thinking
+
+Rick is eat
+
+Rick is putting down fork: 0
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 1
+
+Bird-Person is picking up fork: 6
+
+Rick is thinking
+
+Bird-Person is eat
+
+Bird-Person is putting down fork: 0
+
+Rick is picking up fork: 0
+
+Bird-Person is putting down fork: 6
+
+Rick is picking up fork: 1
+
+Bird-Person is thinking
+
+Rick is eat
+
+Rick is putting down fork: 0
+
+Bird-Person is picking up fork: 0
+
+Rick is putting down fork: 1
+
+Bird-Person is picking up fork: 6
+
+Bird-Person is eat
+
+Bird-Person is putting down fork: 0
+
+Bird-Person is putting down fork: 6
+
